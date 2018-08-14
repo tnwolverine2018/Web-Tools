@@ -1,0 +1,50 @@
+C:\Users\David\source\repos\Web Based Web Scraper\Web Based Web Scraper\bin\Web Based Web Scraper.dll.config
+C:\Users\David\source\repos\Web Based Web Scraper\Web Based Web Scraper\bin\Web Based Web Scraper.dll
+C:\Users\David\source\repos\Web Based Web Scraper\Web Based Web Scraper\bin\Web Based Web Scraper.pdb
+C:\Users\David\source\repos\Web Based Web Scraper\Web Based Web Scraper\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\David\source\repos\Web Based Web Scraper\Web Based Web Scraper\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\David\source\repos\Web Based Web Scraper\Web Based Web Scraper\bin\System.Web.Helpers.dll
+C:\Users\David\source\repos\Web Based Web Scraper\Web Based Web Scraper\bin\System.Web.Mvc.dll
+C:\Users\David\source\repos\Web Based Web Scraper\Web Based Web Scraper\bin\System.Web.Razor.dll
+C:\Users\David\source\repos\Web Based Web Scraper\Web Based Web Scraper\bin\System.Web.Webpages.Deployment.dll
+C:\Users\David\source\repos\Web Based Web Scraper\Web Based Web Scraper\bin\System.Web.Webpages.dll
+C:\Users\David\source\repos\Web Based Web Scraper\Web Based Web Scraper\bin\System.Web.Webpages.Razor.dll
+C:\Users\David\source\repos\Web Based Web Scraper\Web Based Web Scraper\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\David\source\repos\Web Based Web Scraper\Web Based Web Scraper\bin\System.Web.Razor.xml
+C:\Users\David\source\repos\Web Based Web Scraper\Web Based Web Scraper\bin\System.Web.Webpages.xml
+C:\Users\David\source\repos\Web Based Web Scraper\Web Based Web Scraper\bin\System.Web.Webpages.Deployment.xml
+C:\Users\David\source\repos\Web Based Web Scraper\Web Based Web Scraper\bin\System.Web.Webpages.Razor.xml
+C:\Users\David\source\repos\Web Based Web Scraper\Web Based Web Scraper\bin\System.Web.Helpers.xml
+C:\Users\David\source\repos\Web Based Web Scraper\Web Based Web Scraper\bin\System.Web.Mvc.xml
+C:\Users\David\source\repos\Web Based Web Scraper\Web Based Web Scraper\obj\Debug\Web Based Web Scraper.csprojResolveAssemblyReference.cache
+C:\Users\David\source\repos\Web Based Web Scraper\Web Based Web Scraper\obj\Debug\Web Based Web Scraper.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Web Based Web Scraper\Web Based Web Scraper\obj\Debug\Web Based Web Scraper.dll
+C:\Users\David\source\repos\Web Based Web Scraper\Web Based Web Scraper\obj\Debug\Web Based Web Scraper.pdb
+C:\Users\David\source\repos\Web Based Web Scraper\Web Based Web Scraper\bin\HtmlAgilityPack.dll
+C:\Users\David\source\repos\Web Based Web Scraper\Web Based Web Scraper\bin\HtmlAgilityPack.pdb
+C:\Users\David\source\repos\Web Based Web Scraper\Web Based Web Scraper\bin\HtmlAgilityPack.xml
+C:\Users\davidh\source\repos\Web Based Web Scraper\Web Based Web Scraper\bin\Web Based Web Scraper.dll.config
+C:\Users\davidh\source\repos\Web Based Web Scraper\Web Based Web Scraper\bin\Web Based Web Scraper.dll
+C:\Users\davidh\source\repos\Web Based Web Scraper\Web Based Web Scraper\bin\Web Based Web Scraper.pdb
+C:\Users\davidh\source\repos\Web Based Web Scraper\Web Based Web Scraper\bin\HtmlAgilityPack.dll
+C:\Users\davidh\source\repos\Web Based Web Scraper\Web Based Web Scraper\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\davidh\source\repos\Web Based Web Scraper\Web Based Web Scraper\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\davidh\source\repos\Web Based Web Scraper\Web Based Web Scraper\bin\System.Web.Helpers.dll
+C:\Users\davidh\source\repos\Web Based Web Scraper\Web Based Web Scraper\bin\System.Web.Mvc.dll
+C:\Users\davidh\source\repos\Web Based Web Scraper\Web Based Web Scraper\bin\System.Web.Razor.dll
+C:\Users\davidh\source\repos\Web Based Web Scraper\Web Based Web Scraper\bin\System.Web.Webpages.Deployment.dll
+C:\Users\davidh\source\repos\Web Based Web Scraper\Web Based Web Scraper\bin\System.Web.Webpages.dll
+C:\Users\davidh\source\repos\Web Based Web Scraper\Web Based Web Scraper\bin\System.Web.Webpages.Razor.dll
+C:\Users\davidh\source\repos\Web Based Web Scraper\Web Based Web Scraper\bin\HtmlAgilityPack.pdb
+C:\Users\davidh\source\repos\Web Based Web Scraper\Web Based Web Scraper\bin\HtmlAgilityPack.xml
+C:\Users\davidh\source\repos\Web Based Web Scraper\Web Based Web Scraper\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\davidh\source\repos\Web Based Web Scraper\Web Based Web Scraper\bin\System.Web.Razor.xml
+C:\Users\davidh\source\repos\Web Based Web Scraper\Web Based Web Scraper\bin\System.Web.Webpages.xml
+C:\Users\davidh\source\repos\Web Based Web Scraper\Web Based Web Scraper\bin\System.Web.Webpages.Deployment.xml
+C:\Users\davidh\source\repos\Web Based Web Scraper\Web Based Web Scraper\bin\System.Web.Webpages.Razor.xml
+C:\Users\davidh\source\repos\Web Based Web Scraper\Web Based Web Scraper\bin\System.Web.Helpers.xml
+C:\Users\davidh\source\repos\Web Based Web Scraper\Web Based Web Scraper\bin\System.Web.Mvc.xml
+C:\Users\davidh\source\repos\Web Based Web Scraper\Web Based Web Scraper\obj\Debug\Web Based Web Scraper.csprojResolveAssemblyReference.cache
+C:\Users\davidh\source\repos\Web Based Web Scraper\Web Based Web Scraper\obj\Debug\Web Based Web Scraper.csproj.CoreCompileInputs.cache
+C:\Users\davidh\source\repos\Web Based Web Scraper\Web Based Web Scraper\obj\Debug\Web Based Web Scraper.dll
+C:\Users\davidh\source\repos\Web Based Web Scraper\Web Based Web Scraper\obj\Debug\Web Based Web Scraper.pdb
